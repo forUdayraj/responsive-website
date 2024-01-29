@@ -1,0 +1,34 @@
+to make website responsive
+1. css flexbox
+2. css unites
+3. responsive typography
+4. mobile-first-approach
+5. flexible images and media
+
+css unites:
+- px= fixed in size diffr in dispaly to dispaly
+- %= depends upon the parent
+- vw, vh
+- vmax, vmin
+- em, rem 
+
+vw = viewport width
+vh = viewport heigth
+vh is smaller than vw
+
+vmax = viewport maximum at perticular size takes in heigth
+vmin = viewport minimum 
+
+em = takes values as per the parent
+rem = takes values as per the root size
+
+layout of website
+flexbox
+-display flex
+-aligning items in x and y axis
+-flex direction
+-flex wrap
+position absolute and flex
+display flex divide in rows and colomns
+main axis is x
+cross axis is y
